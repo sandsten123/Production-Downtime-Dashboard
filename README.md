@@ -9,7 +9,7 @@ This project demonstrates data analysis of production and downtime metrics using
 
 ## Screenshots
 ![Total Production by Product](https://github.com/sandsten123/Production-Downtime-Dashboard/blob/main/Sk%C3%A4rmbild%202026-03-09%20165736.png?raw=true)
-![Monthly Production Trend](Skärmbild 2026-03-09 165748.png)
+![Monthly Production Trend](https://github.com/sandsten123/Production-Downtime-Dashboard/blob/main/Sk%C3%A4rmbild%202026-03-09%20165748.png?raw=true)
 ![Downtime Analysis](Skärmbild 2026-03-09 165805.png)
 
 ## Skills Demonstrated
